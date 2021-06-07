@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16.185" height="17.984" viewBox="0 0 16.185 17.984">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#555ab9"/>
+      <stop offset="1" stop-color="#00b6cd"/>
+    </linearGradient>
+  </defs>
+  <path id="Icon_material-date-range" data-name="Icon material-date-range" d="M9.9,11.093H8.1v1.8H9.9Zm3.6,0h-1.8v1.8h1.8Zm3.6,0h-1.8v1.8h1.8Zm1.8-6.294h-.9V3h-1.8V4.8H9V3H7.2V4.8H6.3A1.79,1.79,0,0,0,4.509,6.6L4.5,19.185a1.8,1.8,0,0,0,1.8,1.8H18.887a1.8,1.8,0,0,0,1.8-1.8V6.6A1.8,1.8,0,0,0,18.887,4.8Zm0,14.387H6.3V9.294H18.887Z" transform="translate(-4.5 -3)" fill="url(#linear-gradient)"/>
+</svg>

@@ -1,0 +1,14 @@
+<svg id="Medium" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="_Background" data-name="◼️ Background" d="M6,0H38a0,0,0,0,1,0,0V38a0,0,0,0,1,0,0H6a6,6,0,0,1-6-6V6A6,6,0,0,1,6,0Z" fill="#fff" stroke="#e4e4e4" stroke-miterlimit="10" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="_Border_Radius" data-name="🔵 Border Radius">
+    <g id="_Background-2" data-name="◼️ Background" fill="#fff" stroke="#e4e4e4" stroke-miterlimit="10" stroke-width="1">
+      <path d="M6,0H38a0,0,0,0,1,0,0V38a0,0,0,0,1,0,0H6a6,6,0,0,1-6-6V6A6,6,0,0,1,6,0Z" stroke="none"/>
+      <path d="M6,.5H37a.5.5,0,0,1,.5.5V37a.5.5,0,0,1-.5.5H6A5.5,5.5,0,0,1,.5,32V6A5.5,5.5,0,0,1,6,.5Z" fill="none"/>
+    </g>
+    <path id="Icon_ionic-ios-arrow-back" data-name="Icon ionic-ios-arrow-back" d="M14.063,14.352l6.175-6.171a1.166,1.166,0,0,0-1.652-1.647l-7,6.992a1.164,1.164,0,0,0-.034,1.608l7.026,7.04a1.166,1.166,0,0,0,1.652-1.647Z" transform="translate(2.749 4.306)" fill="#919191"/>
+  </g>
+</svg>

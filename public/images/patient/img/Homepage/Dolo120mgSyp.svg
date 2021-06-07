@@ -1,0 +1,37 @@
+<svg id="Page-1" xmlns="http://www.w3.org/2000/svg" width="70" height="70" viewBox="0 0 70 70">
+  <g id="Desktop" transform="translate(-323 -100)">
+    <g id="Group-15" transform="translate(323 100)">
+      <g id="Group-13-Copy-2" opacity="0.006">
+        <rect id="Rectangle" width="70" height="70" fill="#fff" opacity="0.015"/>
+      </g>
+      <g id="Group-8-Copy" transform="translate(1)">
+        <g id="Group-4">
+          <g id="Group-2" transform="translate(3)">
+            <path id="Path" d="M4,12.062H32V23.118H4Z" fill="#efe2dd"/>
+            <path id="Path-2" data-name="Path" d="M18,12.062H32V23.118H18Z" fill="#cdbfba"/>
+            <path id="Path-3" data-name="Path" d="M35,0V15.077H27.222l-1.945-3.738-1.945,3.738H19.445L17.5,11.339l-1.945,3.738H11.667L9.955,11.339,7.778,15.077H0V0H7.778L9.644,3.738,11.667,0h3.889L17.5,3.738,19.445,0h3.889l1.945,3.738L27.222,0Z" fill="#f4e9e9"/>
+            <g id="Group" transform="translate(9)">
+              <path id="Path-4" data-name="Path" d="M11.008,15.076,9.017,11.338v-7.6L11.008,0h3.981l1.991,3.738L18.969,0h7.962V15.076H18.969l-1.991-3.738-1.991,3.738Z" fill="#efe2dd"/>
+              <path id="Path-5" data-name="Path" d="M.065,0H4.046V15.076H.065Z" fill="#e2d6d1"/>
+              <path id="Path-6" data-name="Path" d="M8.027,0h3.981V15.076H8.027Z" fill="#efe2dd"/>
+            </g>
+            <path id="Path-7" data-name="Path" d="M24,0h3V15.077H24Z" fill="#cdbfba"/>
+            <path id="Path-8" data-name="Path" d="M18,0h2V15.077H18Z" fill="#cdbfba"/>
+          </g>
+          <rect id="Rectangle-2" data-name="Rectangle" width="42" height="21.108" rx="7" transform="translate(0 19.097)" fill="#f8dcdc"/>
+          <path id="Rectangle-3" data-name="Rectangle" d="M21,19.1H35a7,7,0,0,1,7,7v7.108a7,7,0,0,1-7,7H28a7,7,0,0,1-7-7V19.1Z" fill="#aaa" fill-rule="evenodd"/>
+          <rect id="Rectangle-4" data-name="Rectangle" width="42" height="40.205" rx="7" transform="translate(0 25.128)" fill="#1d8ac8"/>
+          <path id="Combined-Shape" d="M21,25.128V65.333H6.667A6.607,6.607,0,0,1,0,58.788V31.673a6.607,6.607,0,0,1,6.667-6.545Z" fill="#2aa9f1" fill-rule="evenodd"/>
+          <path id="Line" d="M12.85,46.738H28.861" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="6" fill-rule="evenodd"/>
+          <path id="Line-2" data-name="Line" d="M12.962,46.738H28.038" transform="translate(67.238 26.238) rotate(90)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="6" fill-rule="evenodd"/>
+        </g>
+        <g id="Group-3" transform="translate(49.911 38.281) rotate(48)">
+          <path id="Path-9" data-name="Path" d="M26.935,7.471a7.761,7.761,0,0,1-7.981,7.47H12.969L8.978,8.18l.359-.71L12.969,0h5.985A7.761,7.761,0,0,1,26.935,7.471Z" fill="#eee3e3"/>
+          <path id="Path-10" data-name="Path" d="M26.935,6.972a8,8,0,0,1-7.981,7.968H12.969L8.978,7.729l.359-.757Z" fill="#ced7c3"/>
+          <path id="Path-11" data-name="Path" d="M13.966,0V14.941H7.98A7.761,7.761,0,0,1,0,7.471,7.761,7.761,0,0,1,7.98,0Z" fill="#9cdd05"/>
+          <path id="Path-12" data-name="Path" d="M13.966,6.972v7.968H7.98A7.7,7.7,0,0,1,.027,7.024Z" fill="#6b0"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

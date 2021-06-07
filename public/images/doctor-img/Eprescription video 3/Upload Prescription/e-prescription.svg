@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="764" height="960.805" viewBox="0 0 764 960.805">
+  <g id="Group_247" data-name="Group 247" transform="translate(-548 -396.195)">
+    <g id="Group" transform="translate(0 120.195)">
+      <path id="Path_106" data-name="Path 106" d="M0,0H764V960.8H0Z" transform="translate(548 276)" fill="#fff"/>
+    </g>
+    <path id="Line_22" data-name="Line 22" d="M0,0H685.591" transform="translate(587.158 1298.583)" fill="none" stroke="#707070" stroke-width="2"/>
+    <text id="cross_-_anticon" data-name="cross - anticon" transform="translate(1259 405)" fill="#fff" font-size="17" font-family=".LastResort-Regular, '.LastResort'"><tspan x="0" y="14"></tspan></text>
+    <text id="Apollo_Clinic" data-name="Apollo Clinic" transform="translate(1128 442)" font-size="19" font-family="TimesNewRoman-Regular, Times New Roman"><tspan x="0" y="17">Dr. Vamsi Mohan</tspan></text>
+    <text id="Apollo_Clinic-2" data-name="Apollo Clinic" transform="translate(587 441)" font-size="19" font-family="TimesNewRoman-Regular, Times New Roman"><tspan x="0" y="17">Anirudh Reddy</tspan></text>
+    <text id="Madhapur" transform="translate(1142 468)" font-size="12" font-family="TimesNewRoman-Regular, Times New Roman"><tspan x="0" y="11">MBBS, DNB (Gen Med)</tspan></text>
+    <text id="Madhapur-2" data-name="Madhapur" transform="translate(1180 486)" font-size="12" font-family="TimesNewRoman-Regular, Times New Roman"><tspan x="0" y="11">General Medicine</tspan></text>
+    <text id="Madhapur-3" data-name="Madhapur" transform="translate(587 466)" font-size="12" font-family="TimesNewRoman-Regular, Times New Roman"><tspan x="0" y="11">25 years, Male</tspan></text>
+    <text id="Madhapur-4" data-name="Madhapur" transform="translate(1168 417)" font-size="12" font-family="TimesNewRoman-Regular, Times New Roman"><tspan x="0" y="11" xml:space="preserve">8/10/2019  | 6:30pm</tspan></text>
+    <text id="Madhapur-5" data-name="Madhapur" transform="translate(1163 504)" font-size="12" font-family="TimesNewRoman-Regular, Times New Roman"><tspan x="0" y="11">M: +91 89389 98938</tspan></text>
+    <text id="Madhapur-6" data-name="Madhapur" transform="translate(587 484)" font-size="12" font-family="TimesNewRoman-Regular, Times New Roman"><tspan x="0" y="11">Patient UHID: 203</tspan></text>
+    <path id="Line_6" data-name="Line 6" d="M0,0H683.023" transform="translate(587.8 526.732)" fill="none" stroke="#464646" stroke-linecap="square" stroke-width="2"/>
+    <text id="Vitals_Information" data-name="Vitals Information" transform="translate(587 545)" font-size="17" font-family="TimesNewRoman-Regular, Times New Roman"><tspan x="0" y="15">Vitals Information</tspan></text>
+    <g id="Rectangle_280" data-name="Rectangle 280">
+      <path id="Vector" d="M0,0H685V111H0Z" transform="translate(587 578)" fill="#fff"/>
+      <path id="Vector-2" data-name="Vector" d="M0,0H684V110H0Z" transform="translate(587.5 578.5)" fill="none" stroke="#8d8d8d" stroke-width="1"/>
+    </g>
+    <path id="Line_23" data-name="Line 23" d="M0,0H684.307" transform="translate(587.158 615.56)" fill="none" stroke="#8d8d8d" stroke-width="1"/>
+    <path id="Line_24" data-name="Line 24" d="M0,0H684.307" transform="translate(587.158 652.793)" fill="none" stroke="#8d8d8d" stroke-width="1"/>
+    <text id="Pulse_Rate:_75B_PM_B" data-name="Pulse Rate: 75B PM B" transform="translate(598 588)" fill="#2f2f2f" font-size="12" font-family="TimesNewRoman-Regular, Times New Roman"><tspan x="0" y="11">Pulse Rate: 75B PM</tspan></text>
+    <text id="Pulse_Rate:_75B_PM_B-2" data-name="Pulse Rate: 75B PM B" transform="translate(598 624)" fill="#2f2f2f" font-size="12" font-family="TimesNewRoman-Regular, Times New Roman"><tspan x="0" y="11" xml:space="preserve">Temperature:  75B PM</tspan></text>
+    <text id="Pulse_Rate:_75B_PM_B-3" data-name="Pulse Rate: 75B PM B" transform="translate(598 661)" fill="#2f2f2f" font-size="12" font-family="TimesNewRoman-Regular, Times New Roman"><tspan x="0" y="11">Height: 6.0 feet.inch</tspan></text>
+    <text id="Pulse_Rate:_75B_PM_B-4" data-name="Pulse Rate: 75B PM B" transform="translate(1086 625)" fill="#2f2f2f" font-size="12" font-family="TimesNewRoman-Regular, Times New Roman"><tspan x="0" y="11">Blood Glucose: 70 ml/dl</tspan></text>
+    <text id="Pulse_Rate:_75B_PM_B-5" data-name="Pulse Rate: 75B PM B" transform="translate(784 587)" fill="#2f2f2f" font-size="12" font-family="TimesNewRoman-Regular, Times New Roman"><tspan x="0" y="11">Blood Pressure: 120 mmHg - 85mmHg</tspan></text>
+    <text id="Pulse_Rate:_75B_PM_B-6" data-name="Pulse Rate: 75B PM B" transform="translate(784 624)" fill="#2f2f2f" font-size="12" font-family="TimesNewRoman-Regular, Times New Roman"><tspan x="0" y="11">Respiratory Rate: 22 Breaths Per Minute</tspan></text>
+    <text id="Pulse_Rate:_75B_PM_B-7" data-name="Pulse Rate: 75B PM B" transform="translate(784 661)" fill="#2f2f2f" font-size="12" font-family="TimesNewRoman-Regular, Times New Roman"><tspan x="0" y="11">BMI: 32 Kg/m2</tspan></text>
+    <text id="Pulse_Rate:_75B_PM_B-8" data-name="Pulse Rate: 75B PM B" transform="translate(1086 661)" fill="#2f2f2f" font-size="12" font-family="TimesNewRoman-Regular, Times New Roman"><tspan x="0" y="11">Weight: 75 k</tspan></text>
+    <path id="Line_25" data-name="Line 25" d="M0,0V110.414" transform="translate(774.605 578.328)" fill="none" stroke="#8d8d8d" stroke-width="1"/>
+    <path id="Line_26" data-name="Line 26" d="M0,0V110.414" transform="translate(1075.032 578.328)" fill="none" stroke="#8d8d8d" stroke-width="1"/>
+    <text id="Past_Medical_History" data-name="Past Medical History" transform="translate(587 913)" font-size="14" font-family="TimesNewRoman-Regular, Times New Roman"><tspan x="0" y="12">Medicines</tspan></text>
+    <g id="Group_244" data-name="Group 244">
+      <text id="Past_Medical_History-2" data-name="Past Medical History" transform="translate(587 710)" font-size="14" font-family="TimesNewRoman-Regular, Times New Roman"><tspan x="0" y="12">Past Medical History</tspan></text>
+      <text id="Patient_suffered_fro" data-name="Patient suffered fro" transform="translate(587 737)" fill="#2f2f2f" font-size="12" font-family="TimesNewRoman-Regular, Times New Roman"><tspan x="0" y="11">Patient suffered from malaria 2 months back</tspan></text>
+    </g>
+    <g id="Group_245" data-name="Group 245">
+      <text id="Diagnosis" transform="translate(587 770)" font-size="14" font-family="TimesNewRoman-Regular, Times New Roman"><tspan x="0" y="12">Diagnosis</tspan></text>
+      <text id="Lorem_ipsum_dolor_si" data-name="Lorem ipsum dolor si" transform="translate(587 796)" fill="#2f2f2f" font-size="12" font-family="TimesNewRoman-Regular, Times New Roman"><tspan x="0" y="11">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum laoreet. Proin gravida dolor sit amet lacus accumsan et </tspan><tspan x="0" y="26">viverra justo commodo.</tspan></text>
+    </g>
+    <g id="Group_246" data-name="Group 246">
+      <text id="Lab_Test" data-name="Lab Test" transform="translate(587 853)" font-size="14" font-family="TimesNewRoman-Regular, Times New Roman"><tspan x="0" y="12">Lab Test</tspan></text>
+      <text id="USG_in_Lower_Abdomen" data-name="USG in Lower Abdomen" transform="translate(587 880)" fill="#2f2f2f" font-size="12" font-family="TimesNewRoman-Regular, Times New Roman"><tspan x="0" y="11">USG in Lower Abdomen, LIPID profile, LFT test</tspan></text>
+    </g>
+    <path id="Rectangle_281" data-name="Rectangle 281" d="M0,0H373V45H0Z" transform="translate(587 945)" fill="#5d5d5d"/>
+    <path id="Rectangle_282" data-name="Rectangle 282" d="M0,0H130V45H0Z" transform="translate(961 945)" fill="#5d5d5d"/>
+    <path id="Rectangle_283" data-name="Rectangle 283" d="M0,0H180V45H0Z" transform="translate(1092 945)" fill="#5d5d5d"/>
+    <path id="Rectangle_284" data-name="Rectangle 284" d="M0,0H373V39H0Z" transform="translate(587 991)" fill="#eaeaea"/>
+    <path id="Rectangle_285" data-name="Rectangle 285" d="M0,0H130V39H0Z" transform="translate(961 991)" fill="#eaeaea"/>
+    <path id="Rectangle_286" data-name="Rectangle 286" d="M0,0H180V39H0Z" transform="translate(1092 991)" fill="#eaeaea"/>
+    <path id="Rectangle_287" data-name="Rectangle 287" d="M0,0H373V38H0Z" transform="translate(587 1071)" fill="#eaeaea"/>
+    <path id="Rectangle_288" data-name="Rectangle 288" d="M0,0H130V38H0Z" transform="translate(961 1071)" fill="#eaeaea"/>
+    <path id="Rectangle_289" data-name="Rectangle 289" d="M0,0H180V38H0Z" transform="translate(1092 1071)" fill="#eaeaea"/>
+    <path id="Rectangle_290" data-name="Rectangle 290" d="M0,0H373V38H0Z" transform="translate(587 1031)" fill="#f5f5f5"/>
+    <path id="Rectangle_291" data-name="Rectangle 291" d="M0,0H130V38H0Z" transform="translate(961 1031)" fill="#f5f5f5"/>
+    <path id="Rectangle_292" data-name="Rectangle 292" d="M0,0H180V38H0Z" transform="translate(1092 1031)" fill="#f5f5f5"/>
+    <text id="Past_Medical_History-3" data-name="Past Medical History" transform="translate(598 958)" fill="#fff" font-size="12" font-family="TimesNewRoman-Regular, Times New Roman"><tspan x="0" y="11">Drug name</tspan></text>
+    <text id="Past_Medical_History-4" data-name="Past Medical History" transform="translate(1000 949)" fill="#fff" font-size="12" font-family="TimesNewRoman-Regular, Times New Roman"><tspan x="0" y="11">Dosage</tspan></text>
+    <text id="Past_Medical_History-5" data-name="Past Medical History" transform="translate(1104 958)" fill="#fff" font-size="12" font-family="TimesNewRoman-Regular, Times New Roman"><tspan x="0" y="11">Timming &amp; Duration</tspan></text>
+    <text id="USG_in_Lower_Abdomen-2" data-name="USG in Lower Abdomen" transform="translate(597 1000)" font-size="12" font-family="TimesNewRoman-Regular, Times New Roman"><tspan x="0" y="11">1. Dolo tablet 650</tspan></text>
+    <text id="USG_in_Lower_Abdomen-3" data-name="USG in Lower Abdomen" transform="translate(597 1080)" font-size="12" font-family="TimesNewRoman-Regular, Times New Roman"><tspan x="0" y="11">3. Rantac 150mg</tspan></text>
+    <text id="USG_in_Lower_Abdomen-4" data-name="USG in Lower Abdomen" transform="translate(597 1040)" font-size="12" font-family="TimesNewRoman-Regular, Times New Roman"><tspan x="0" y="11">2. Doloban 25mg Injection</tspan></text>
+    <text id="USG_in_Lower_Abdomen-5" data-name="USG in Lower Abdomen" transform="translate(1105 1000)" font-size="12" font-family="TimesNewRoman-Regular, Times New Roman"><tspan x="0" y="11">Daily - 2 months</tspan></text>
+    <text id="USG_in_Lower_Abdomen-6" data-name="USG in Lower Abdomen" transform="translate(1105 1080)" font-size="12" font-family="TimesNewRoman-Regular, Times New Roman"><tspan x="0" y="11">Daily - 2 months</tspan></text>
+    <text id="USG_in_Lower_Abdomen-7" data-name="USG in Lower Abdomen" transform="translate(1104 1040)" font-size="12" font-family="TimesNewRoman-Regular, Times New Roman"><tspan x="0" y="11">Weekly - 2 weeks</tspan></text>
+    <text id="USG_in_Lower_Abdomen-8" data-name="USG in Lower Abdomen" transform="translate(995 1016)" font-size="8" font-family="TimesNewRoman-Regular, Times New Roman"><tspan x="0" y="7">AFTER FOOD</tspan></text>
+    <text id="USG_in_Lower_Abdomen-9" data-name="USG in Lower Abdomen" transform="translate(995 1095)" font-size="8" font-family="TimesNewRoman-Regular, Times New Roman"><tspan x="0" y="7">AFTER FOOD</tspan></text>
+    <text id="USG_in_Lower_Abdomen-10" data-name="USG in Lower Abdomen" transform="translate(991 1056)" font-size="8" font-family="TimesNewRoman-Regular, Times New Roman"><tspan x="0" y="7">BEFORE FOOD</tspan></text>
+    <text id="USG_in_Lower_Abdomen-11" data-name="USG in Lower Abdomen" transform="translate(976 994)" font-size="12" font-family="TimesNewRoman-Regular, Times New Roman"><tspan x="0" y="11">1</tspan></text>
+    <text id="USG_in_Lower_Abdomen-12" data-name="USG in Lower Abdomen" transform="translate(976 1074)" font-size="12" font-family="TimesNewRoman-Regular, Times New Roman"><tspan x="0" y="11">1</tspan></text>
+    <text id="USG_in_Lower_Abdomen-13" data-name="USG in Lower Abdomen" transform="translate(976 1034)" font-size="12" font-family="TimesNewRoman-Regular, Times New Roman"><tspan x="0" y="11">0</tspan></text>
+    <text id="USG_in_Lower_Abdomen-14" data-name="USG in Lower Abdomen" transform="translate(1023 994)" font-size="12" font-family="TimesNewRoman-Regular, Times New Roman"><tspan x="0" y="11">0</tspan></text>
+    <text id="USG_in_Lower_Abdomen-15" data-name="USG in Lower Abdomen" transform="translate(1023 1074)" font-size="12" font-family="TimesNewRoman-Regular, Times New Roman"><tspan x="0" y="11">0</tspan></text>
+    <text id="USG_in_Lower_Abdomen-16" data-name="USG in Lower Abdomen" transform="translate(1023 1034)" font-size="12" font-family="TimesNewRoman-Regular, Times New Roman"><tspan x="0" y="11">1</tspan></text>
+    <text id="M" transform="translate(974 972)" fill="#fff" font-size="11" font-family="TimesNewRoman-Regular, Times New Roman"><tspan x="0" y="10">M</tspan></text>
+    <text id="D" transform="translate(1023 972)" fill="#fff" font-size="11" font-family="TimesNewRoman-Regular, Times New Roman"><tspan x="0" y="10">D</tspan></text>
+    <text id="N" transform="translate(1068 972)" fill="#fff" font-size="11" font-family="TimesNewRoman-Regular, Times New Roman"><tspan x="0" y="10">N</tspan></text>
+    <text id="USG_in_Lower_Abdomen-17" data-name="USG in Lower Abdomen" transform="translate(1068 994)" font-size="12" font-family="TimesNewRoman-Regular, Times New Roman"><tspan x="0" y="11">1</tspan></text>
+    <text id="USG_in_Lower_Abdomen-18" data-name="USG in Lower Abdomen" transform="translate(1068 1074)" font-size="12" font-family="TimesNewRoman-Regular, Times New Roman"><tspan x="0" y="11">1</tspan></text>
+    <text id="USG_in_Lower_Abdomen-19" data-name="USG in Lower Abdomen" transform="translate(1068 1034)" font-size="12" font-family="TimesNewRoman-Regular, Times New Roman"><tspan x="0" y="11">0</tspan></text>
+  </g>
+</svg>

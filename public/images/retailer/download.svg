@@ -1,0 +1,7 @@
+<svg id="Group_14335" data-name="Group 14335" xmlns="http://www.w3.org/2000/svg" width="24.841" height="32.686" viewBox="0 0 24.841 32.686">
+  <g id="Icon_ionic-ios-document" data-name="Icon ionic-ios-document">
+    <path id="Path_36" data-name="Path 36" d="M22.154,12.026H29.59A.4.4,0,0,0,30,11.618h0a2.418,2.418,0,0,0-.874-1.871l-6.235-5.2a2.624,2.624,0,0,0-1.683-.6h0a.6.6,0,0,0-.6.6v5.924A1.552,1.552,0,0,0,22.154,12.026Z" transform="translate(-5.158 -3.936)" fill="#0aa1e0"/>
+    <path id="Path_37" data-name="Path 37" d="M20.632,10.475V3.938H9.927A2.623,2.623,0,0,0,7.313,6.552V34.008a2.623,2.623,0,0,0,2.615,2.615H29.539a2.623,2.623,0,0,0,2.615-2.615V14.152H24.309A3.683,3.683,0,0,1,20.632,10.475Z" transform="translate(-7.313 -3.938)" fill="#0aa1e0"/>
+  </g>
+  <path id="Icon_metro-arrow-up" data-name="Icon metro-arrow-up" d="M11.22,5.073,6.428.281a.958.958,0,0,0-1.355,0L.281,5.073A.958.958,0,1,0,1.636,6.428L4.792,3.272v9.187a.958.958,0,1,0,1.917,0V3.272L9.865,6.428A.958.958,0,0,0,11.22,5.073Z" transform="translate(19.325 28.545) rotate(180)" fill="#fff"/>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18">
+  <g id="group-24" transform="translate(1.602 1.712)">
+    <g id="group-23" transform="translate(-1.601 -1.712)">
+      <circle id="ellipse-3" cx="9" cy="9" r="9" transform="translate(0 0)" fill="#fff"/>
+      <g id="group-22" transform="translate(5.432 5.635)">
+        <line id="line-4" y1="9.305" transform="translate(6.579 0) rotate(45)" fill="none" stroke="#00b6cd" stroke-width="1"/>
+        <line id="line-4-2" data-name="line-4" y1="9.305" transform="translate(6.579 6.579) rotate(135)" fill="none" stroke="#00b6cd" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

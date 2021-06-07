@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34.962" height="45.532" viewBox="0 0 34.962 45.532">
+  <g id="pdf" transform="translate(-6.5)">
+    <path id="Path_21345" data-name="Path 21345" d="M31.286,0H7.69C7.033,0,6.5.533,6.5,1.566V44.719a1.224,1.224,0,0,0,1.19.813H40.272a1.224,1.224,0,0,0,1.19-.813V10.552c0-.566-.076-.748-.209-.882L31.792.209A.718.718,0,0,0,31.286,0Z" transform="translate(0 0)" fill="#ededed"/>
+    <path id="Path_21346" data-name="Path 21346" d="M37.5.151V9.785h9.634Z" transform="translate(-5.795 -0.028)" fill="#dedede"/>
+    <path id="Path_21348" data-name="Path 21348" d="M40.272,52.822H7.69a1.19,1.19,0,0,1-1.19-1.19V39H41.462V51.633A1.19,1.19,0,0,1,40.272,52.822Z" transform="translate(0 -7.29)" fill="#cc4b4c"/>
+    <text id="DOc." transform="translate(14.5 42)" fill="#fff" font-size="9" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">DOc.</tspan></text>
+  </g>
+</svg>

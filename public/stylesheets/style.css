@@ -1,0 +1,91 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+@media all and (min-width: 80px) {
+  .Login {
+    padding: 60px 0;
+    margin-top:100px; 
+   
+  }
+
+  .Login form {
+    margin: 0 auto;
+    max-width: 320px;
+    
+  }
+  .errorMsg {
+      color: #cc0000;
+      margin-bottom: 12px;
+  }
+    
+    .sucessMsg {
+      color: #6B8E23;
+      margin-bottom: 10px;
+  }
+}   
+#login_main{
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  margin: 0px auto;
+  width: 360px;
+  padding: 10px;
+}
+#login_main .login-box{
+  border: 1px solid #ddd;
+  box-shadow: 0 1px 2px rgba(0,0,0,.05);
+  padding: 15px;
+}
+#login_main .login-logo{
+  text-align: center;
+  margin-bottom: 20px;
+
+}
+#login_main .login_head h4{
+  text-align: center;
+  margin: 0;
+  font-weight: bold;
+  font-size: 18px;
+  font-family: sans-serif;
+  padding: 20px 0px;
+
+}
+#login_main .login_body .form-group{
+  margin-bottom: 15px;
+  border-radius: 8px;
+  position: relative;
+}
+#login_main .login_body .form-group .login_ico{
+  position: absolute;
+  top: 2px;
+  right: 0;
+  display: block;
+  width: 34px;
+  height: 34px;
+  line-height: 34px;
+  
+}
+#login_main .login_body {
+  padding:20px;
+  }
+#login_main .login_body .form-group .login_ico i{
+color: #777;
+}
+#login_main .sign_btn{
+  text-align: center;
+}
+#login_main .form-control{
+ background-color: #e8f0fe !important;
+ color: #000;
+}
+#login_main .sign_btn .btn-add{
+  background: -webkit-linear-gradient(top, #337ab7 0%, #265a88 100%);
+  padding: 4px 20px;
+}

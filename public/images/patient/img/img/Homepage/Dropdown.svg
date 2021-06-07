@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="12" height="7.41" viewBox="0 0 12 7.41">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Icon" d="M1.41,0,6,4.58,10.59,0,12,1.41l-6,6-6-6Z" transform="translate(933 140)"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_1" data-name="Mask Group 1" transform="translate(-933 -140)" clip-path="url(#clip-path)">
+    <g id="Icon_Color" data-name="Icon Color" transform="translate(926 131)">
+      <rect id="Gray_85" data-name="Gray 85" width="26" height="26"/>
+    </g>
+  </g>
+</svg>

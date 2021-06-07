@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100.012" height="100.012" viewBox="0 0 100.012 100.012">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#555ab9"/>
+      <stop offset="1" stop-color="#00b6cd"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_10126" data-name="Group 10126" transform="translate(-834.5 -508)">
+    <g id="Ellipse_874" data-name="Ellipse 874" transform="translate(834.5 508)" fill="#fff" stroke="#ded9d9" stroke-width="1">
+      <circle cx="50.006" cy="50.006" r="50.006" stroke="none"/>
+      <circle cx="50.006" cy="50.006" r="49.506" fill="none"/>
+    </g>
+    <path id="Icon_metro-keyboard-voice" data-name="Icon metro-keyboard-voice" d="M27.674,38.443a7.988,7.988,0,0,0,7.977-8l.027-16.008a8,8,0,0,0-16.008,0V30.439a8.01,8.01,0,0,0,8,8Zm14.141-8c0,8-6.763,13.607-14.141,13.607s-14.141-5.6-14.141-13.607H9c0,9.111,7.257,16.635,16.008,17.929v8.751h5.336V48.368C39.093,47.074,46.35,39.55,46.35,30.439H41.814Z" transform="translate(857.233 526.751)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

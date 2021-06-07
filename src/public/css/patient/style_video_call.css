@@ -1,0 +1,513 @@
+audio, canvas, progress, video {
+    width: 100%;
+    height: 250px !important;
+    border-radius: 8px;
+    object-fit: cover;
+}
+.col-md-2{
+    float:left;
+}
+.col-md-8{
+    float:left;
+}
+.col-md-3{
+    float:left;
+}
+.col-md-9{
+    float:left;
+}
+#ceras_hlth .ceras_col {
+    padding: 5px;
+    width: 50%;
+    float: left;
+}
+.consult_time{
+    font-weight: 600;
+    color: #000;
+        }
+        audio, canvas, progress, video{
+        width: 100%;
+        height: 280px;
+        object-fit: cover;
+        position: relative; 
+    } 
+    #ceras_hlth .appoint_close{
+        position: absolute; 
+        bottom: 1%;
+        background: #fff;
+    }
+    .join_btn a:hover {
+        color: #fff;
+    }
+    .join_btn a:focus { 
+        color: #fff;
+    }
+    .join_btn a:active {
+        color: #fff;
+    }
+    .join_btn a {
+        color: #fff;
+    } 
+.navbar-brand>img {
+    display: block;
+    height: 55px;
+}
+.ceras_navbar {
+    background-color: #fff !important;
+    border-color: #fff;
+    box-shadow: 0 2px 2px rgba(0, 0, 0, 0.37) !important;
+}
+.nav>li>a>img {
+    max-width: none;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+.navbar-default .navbar-nav>li>a {
+    color: #777;
+    font-size: 20px;
+    padding-left: 10px;
+}
+#ceras_hlth{
+    background: #fff;
+    margin: 95px 30px;
+}
+#ceras_hlth .ceras_wait_room{
+    padding: 5px;
+}
+#ceras_hlth .ceras_wait_room h2{
+ 
+        font-size: 26px;
+        font-weight: 600;
+        font-family: sans-serif;
+        margin: 10px 0px;
+}
+#ceras_hlth .ceras_wait_room p{
+    font-size: 16px;
+    font-weight: bold;
+    margin: 10px 0px;
+    font-family: sans-serif;
+}
+
+#ceras_hlth .ceras_main{
+margin-top: 10px;
+position: relative;
+}
+#ceras_hlth .ceras_video_app p{
+background: #fff;
+    color: #2E3192;
+    font-size: 24px;
+    height: 70px;
+    width: 70px;
+    padding: 18px;
+    border-radius: 50%;
+    position: absolute;
+    top: 48%;
+    left: 50%;
+    margin: 0 auto;
+    transform: translate(-50%,-250%);
+    box-shadow: 0 1px 6px 0 rgba(32,33,36,0.28);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#ceras_hlth .ceras_main .ceras_ptnt_dtls{
+border: 1px solid #ddd;
+padding: 25px 10px;
+box-shadow: 0 1px 6px 0 rgba(32,33,36,0.28);
+border-radius: 8px;
+min-height: 280px;
+}
+#ceras_hlth .ceras_main .ceras_ptnt_dtls .ceras_pat_img img{
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+}
+#ceras_hlth .ceras_col{
+    padding: 5px;
+}
+#ceras_hlth .ceras_main .ceras_ptnt_dtls .cr_dtls h5{
+    font-size: 16px;
+    font-weight: 600;
+    margin: 10px 0px;
+}
+#ceras_hlth .ceras_main .ceras_ptnt_dtls .cr_dtls h2{
+    font-size: 20px;
+    font-weight: 600;
+    margin: 10px 0px;
+}
+#ceras_hlth .ceras_main .ceras_ptnt_dtls .cr_dtls p{
+    font-size: 18px;
+  
+    margin: 10px 0px;
+}
+#ceras_hlth .ceras_main .ceras_ptnt_dtls .prv_camera p{
+    margin:20px 0px 30px 0px;
+    display: inline-block;
+    border: 2px solid #ddd;
+    border-radius: 8px;
+    padding: 10px;
+    font-size: 16px;
+    color:#2E3192;
+}
+#ceras_hlth .ceras_main .ceras_ptnt_dtls .prv_camera p i{
+    padding-right: 10px;
+    font-size: 16px;
+    color: #2E3192;
+}
+#ceras_hlth .ceras_main  .doctor_dtls{
+    /* background: linear-gradient(to right,#626062, #272627);
+padding: 25px 10px;
+border-radius: 8px;
+min-height: 280px; */
+background: #7BCDE2;
+padding: 20px 15px;
+border-radius: 8px;
+min-height: 280px;
+border: 1px solid #D7D7D7;
+}
+#ceras_hlth .ceras_main  .doctor_dtls .doctor_img img{ 
+height: 150px;
+width: 150px;
+border-radius: 50%;
+}
+#ceras_hlth .ceras_main  .doctor_dtls .doctor_img h2{
+    font-size: 20px;
+    font-weight: 600;
+    margin: 20px 0px 10px 0px;
+    color: #fff;
+}
+#ceras_hlth .ceras_main  .doctor_dtls .doctor_img h5{
+    font-size: 18px;
+    margin: 10px 0px;
+    color: #fff;
+}
+#ceras_hlth .consult_start{
+    margin: 40px 0px;
+}
+
+#ceras_hlth .consult_start h3{
+color: #000;
+    font-size: 20px;
+    font-family: sans-serif;
+    margin: 15px 0px;
+}
+
+#ceras_hlth .consult_start .join_btn{
+    background: #2E3192;
+    /* linear-gradient(to right,#9a0001, #ed1e26); */
+    border-radius: 8px;
+    color: #fff;
+    width: 30%;
+    text-align: center;
+    margin: 0 auto;
+}
+#ceras_hlth .consult_start .join_btn .join_center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80px;
+}
+#ceras_hlth .consult_start .join_btn .join_right{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80px;
+}
+#ceras_hlth .consult_start .join_btn .join{
+    text-align: left;
+}
+#ceras_hlth .consult_start .join_btn h2{
+    margin:15px 0px 0px 0px;
+    font-size: 20px;
+    font-weight: 600;
+}
+#ceras_hlth .consult_start .join_btn h5{
+    margin: 12px 0px 0px 0px;
+    font-size: 14px;
+   
+}
+#ceras_hlth .consult_start .join_btn p{
+margin:0px;
+font-size: 30px;
+}
+#ceras_hlth .consult_start .join_btn .join_right p{
+    margin:0px;
+    font-size: 16px;
+}
+/* #ceras_hlth .consult_start .join_btn .join{
+    display: inline-block;
+    } */
+.text-center{
+    text-align: center;
+}
+
+
+
+
+
+/* 1st page css */
+#ceras_patient{
+    background: #fff;
+    margin: 54px 30px;
+   
+/* background-image:url('../images/patient/img/video-call/clock_img.svg');  */
+background-repeat: no-repeat;
+background-position: 158px -1px;
+background-size: 100px;
+}
+#ceras_patient .ceras_patient_head{
+    padding: 5px;
+}
+#ceras_patient .ceras_patient_head h2{ 
+    font-size: 26px;
+    font-weight: 600;
+    font-family: sans-serif;
+    margin: 10px 0px;   
+}
+#ceras_patient .cr_block{
+    margin: 20px auto;
+    width: 40%;
+    border: 1px solid #ddd;
+    padding: 14px 16px;
+    box-shadow: 0 1px 6px 0 rgba(32,33,36,0.28);
+    border-radius: 8px;
+     height: 280px; 
+}
+#ceras_patient .cr_block .ptnt_main img{
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+}
+#ceras_patient .cr_block .ptnt_dtls h5{
+    font-size: 16px;
+    font-weight: 600;
+    margin: 10px 0px;
+}
+#ceras_patient .cr_block .ptnt_dtls h2{
+    font-size: 20px;
+    font-weight: 600;
+    margin: 10px 0px;
+}
+#ceras_patient .cr_block .ptnt_dtls p{
+    font-size: 18px;
+    margin: 10px 0px;
+}
+#ceras_patient .cr_block .ptnt_prv_camera{
+    margin-top:30px;
+}
+#ceras_patient .cr_block .ptnt_prv_camera h5{
+    color: #999;
+    font-size: 13px;
+    font-family: sans-serif;
+    margin: 10px 0px;
+}
+#ceras_patient .cr_block .ptnt_prv_camera p{
+    margin: 5px 0px 0px 0px;
+    display: inline-block;
+    border: 2px solid #ddd;
+    border-radius: 8px;
+    padding: 10px;
+    font-size: 16px;
+    color: #2E3192;;
+}
+#ceras_patient .cr_block .ptnt_prv_camera p i{
+    padding-right: 10px;
+    font-size: 16px;
+    color: #2E3192;;
+}
+#ceras_patient .nxt_btn{
+    margin:80px 0px;
+    
+}
+#ceras_patient .nxt_btn p{
+    background:#2E3192 ;
+    /* linear-gradient(to right,#9a0001, #ed1e26); */
+    border-radius: 8px;
+    color: #fff;
+    /* width: 30%; */
+    /* text-align: center; */
+    /* margin: 0 auto; */
+    display: inline-block;
+    padding: 16px 28px;
+    font-size: 18px;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    font-weight: 500;
+}
+#ceras_patient .nxt_btn p i{
+    padding-left: 20px;
+    font-size: 16px;
+
+}
+
+#video_call{
+    background: #fff;
+}
+
+#video_call .video_top_img{
+    display: grid;
+    height: 100%;
+    position: relative;
+}
+
+#video_call .video_top_img img{
+    max-width: 100%;
+    max-height: 100vh;
+   width:100%;
+  
+}
+#video_call .video_btm_img img{
+    
+    height: 200px;
+    width: 230px;
+    /* padding: 18px; */
+    /* border-radius: 50%; */
+    position: absolute;
+    bottom: -5%;
+    right: 0%;
+    transform: translate(-50%,-50%) !important;
+    border: 2px solid #fff;
+        
+
+}
+#video_call .video_dctr_dtls h2{
+    position: absolute;
+    top: 10%;
+    z-index: 9999;
+    left: 5%;
+    display: block;
+    font-size: 24px;
+    font-weight: 600;
+    font-family: sans-serif;
+    margin: 5px 0px;
+
+}
+#video_call .video_dctr_dtls p{
+    position: absolute;
+    top: 15%;
+    z-index: 9999;
+    left: 5%;
+    display: block;
+    font-size: 18px;
+    margin: 5px 0px;
+    font-family: sans-serif;
+
+}
+
+#end_call .end_mid_main{
+    position: fixed; /* or absolute */
+  top: 50%;
+  left: 50%;
+  /* bring your own prefixes */
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+#end_call .end_mid_main h2{
+font-size: 24px;
+font-weight: 600;
+margin: 20px 0px;
+}
+/* media queries css */
+/* for mobile */
+@media (max-width: 480px) {
+    #ceras_patient {
+        background: #fff;
+        margin: 0px 5px !important;
+    }
+    #ceras_patient .cr_block{
+        width: 100%;
+    }
+    #ceras_patient .cr_block .ptnt_dtls{
+        text-align: center;
+            }
+            #ceras_patient .cr_block .ptnt_prv_camera{
+                text-align: center;
+            } 
+            #ceras_hlth {
+                background: #fff;
+                margin: 0px 5px;
+            }
+            #ceras_hlth .ceras_video_app p{
+                background: #fff;
+                    color: #2E3192;
+                    font-size: 24px;
+                    height: 70px;
+                    width: 70px;
+                    padding: 18px;
+                    border-radius: 50%;
+                    position : absolute;
+                    top: 48%;
+                    left: 50%;
+                    margin: 0 auto;
+                    transform: translate(-50%,-475%) !important;
+                    box-shadow: 0 1px 6px 0 rgba(32,33,36,0.28);
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                }
+                #ceras_hlth .ceras_main .ceras_ptnt_dtls .cr_dtls{
+                    text-align: center;
+                }
+                #ceras_hlth .ceras_main .ceras_ptnt_dtls .prv_camera{
+                    text-align: center;
+                }
+                #ceras_hlth .consult_start .join_btn{
+                    width: 100% !important;
+                }
+}
+
+
+
+
+
+/* for ipad */
+@media (min-width: 768px) and (max-width: 991px) {
+    #ceras_patient .cr_block{
+        width: 100%;
+    }
+    #ceras_patient .cr_block .ptnt_dtls{
+text-align: center;
+    }
+    #ceras_patient .cr_block .ptnt_prv_camera{
+        text-align: center;
+    } 
+    #ceras_hlth .ceras_video_app p{
+        background: #fff;
+            color: #2E3192;
+            font-size: 24px;
+            height: 70px;
+            width: 70px;
+            padding: 18px;
+            border-radius: 50%;
+            position: absolute;
+            top: 48%;
+            left: 50%;
+            margin: 0 auto;
+            transform: translate(-50%,-475%) !important;
+            box-shadow: 0 1px 6px 0 rgba(32,33,36,0.28);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        #ceras_hlth .ceras_main .ceras_ptnt_dtls .cr_dtls{
+            text-align: center;
+        }
+        #ceras_hlth .ceras_main .ceras_ptnt_dtls .prv_camera{
+            text-align: center;
+        }
+        #ceras_hlth .consult_start .join_btn{
+            width: 60% !important;
+        }
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    #ceras_patient .cr_block{
+        width: 60%;
+    }
+    #ceras_hlth .consult_start .join_btn{
+        width: 60% !important;
+    }
+    
+}
